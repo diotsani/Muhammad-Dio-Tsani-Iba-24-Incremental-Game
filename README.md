@@ -1,3 +1,3 @@
 # Incremental Game
  - Muhammad Dio Tsani Iba - 24
- - File Project Incremental Game
+ - File Build Standalone Incremental Game
